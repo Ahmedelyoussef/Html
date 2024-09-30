@@ -1,0 +1,13 @@
+body {
+    font-family: 'Aref Ruqaa', serif;
+    font-weight: 400;
+}
+.main {
+    margin: 200px auto;
+    padding: 5px 10px;
+    text-align: center;
+    font-family: 'Aref Ruqaa';
+    font-size: 70px;
+    font-weight: 400;
+    color: #20d7b4c7;
+}
